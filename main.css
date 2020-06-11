@@ -17,9 +17,10 @@ body {
  margin:0;
  list-style: none;
  justify-content:space-around;
- border: 2px solid aqua;
+ border: 5px solid aqua;
  background-color: coral;
 }
+
 .calculator input{
   background: none;
   border: none;
@@ -32,7 +33,7 @@ body {
 }
 
 .calculator-buttons{
-  padding: 20px;
+  padding: 40px;
   display: grid;
 
   grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -49,6 +50,7 @@ body {
 .pink {
   background: pink;
 }
+
 .blue {
   background: blue;
 }
