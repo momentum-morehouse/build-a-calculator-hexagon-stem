@@ -1,5 +1,14 @@
+* {
+  box-sizing: border-box;
+}
 
-.container {
+body {
+  background: bisque;
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+
+.calculator {
  width: 450px;
  height: 550px;
  display: flex;
@@ -12,13 +21,25 @@
  background-color: coral;
 }
 
+.calculator-buttons{
+  padding: 20px;
+  display: grid;
+
+  grid-
+}
+
+
 .box {
- width: 100px;
+ /*width: 100px;
  height: 100px;
  border: 2px solid black;
  line-height: 100px;
  margin: auto;
-}
+} */
+
+
+
+
 .pink {
   background: pink;
 }
