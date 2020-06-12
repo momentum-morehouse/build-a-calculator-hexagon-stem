@@ -45,6 +45,14 @@ body {
  border: 2px solid black;
  line-height: 100px;
  margin: auto;
+ 
+ background: rgba (0, 0, 0, 0.5);
+  border: 1px solid #111;
+  padding: 20px;
+  color: #EEE;
+  border-radius: 5px;
+  font-size: 22px;
+  cursor: pointer;
 } 
 
 .pink {
@@ -53,14 +61,5 @@ body {
 
 .blue {
   background: blue;
-}
-.calc-button {
-  background: rgba (0, 0, 0, 0.5);
-  border: 1px solid #111;
-  padding: 20px;
-  color: #EEE;
-  border-radius: 5px;
-  font-size: 22px;
-  cursor: pointer;
 }
 
